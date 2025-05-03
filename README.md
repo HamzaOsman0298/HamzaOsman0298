@@ -1,8 +1,8 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Hamza Osman
-===========================================================================================================================
+=======================================================
 
 Finance Professional | Accounting Graduate | Lifelong Learner
-
+-------------------------------------------------------------
 
 👋 Hi there! I'm Hamza, a finance professional with a passion for accounting, audit, and financial analysis. My journey involves turning financial data into actionable insights, and I'm excited to share my projects and experiences. This GitHub repository showcases my financial projects across various tools and technologies. Feel free to explore my work and reach out if you have any questions or collaboration ideas!
 
