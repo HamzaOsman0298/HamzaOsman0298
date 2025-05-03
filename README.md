@@ -2,7 +2,7 @@
 ===========================================================================================================================
 
 Finance Professional | Accounting Graduate | Lifelong Learner
----------------------------------------------------
+
 
 👋 Hi there! I'm Hamza, a finance professional with a passion for accounting, audit, and financial analysis. My journey involves turning financial data into actionable insights, and I'm excited to share my projects and experiences. This GitHub repository showcases my financial projects across various tools and technologies. Feel free to explore my work and reach out if you have any questions or collaboration ideas!
 
